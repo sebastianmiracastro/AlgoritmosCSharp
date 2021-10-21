@@ -1,0 +1,16 @@
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.GlobalUsings.g.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.csproj.CoreCompileInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\Algoritmo15.exe
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\Algoritmo15.deps.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\Algoritmo15.runtimeconfig.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\Algoritmo15.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\ref\Algoritmo15.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\bin\Debug\net6.0\Algoritmo15.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\ref\Algoritmo15.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo15\Algoritmo15\obj\Debug\net6.0\Algoritmo15.genruntimeconfig.cache

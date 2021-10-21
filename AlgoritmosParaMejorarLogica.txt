@@ -1,0 +1,106 @@
+"+" "-"  =
+
+int counter = 1; //Si quiere que este se ejecute solo un mas y otro un menor, comienzelo en 0
+int Negative = 1; //Si quiere que este se ejecute solo un mas y otro un menor, comienzelo en 0
+int Positive = 1; // Si quiere que este se aumente de a 1 Ponga este en 0 Y el contador tambien en 0
+string Txt = "S = ";
+Console.WriteLine("Digite Un Numero Para El Limite del contador:");
+int Num =Convert.ToInt32(Console.ReadLine());
+
+while (counter <= Num)
+{
+    if (Positive < Negative)
+    {
+        Txt = Txt + " + " + counter;
+        Positive = Positive + 1;
+    }
+    else
+    {
+        Txt = Txt + " - " + counter;
+        Positive = 0;
+        Negative += 1;
+
+        counter = counter + 1;
+    }
+}
+
+Console.WriteLine(Txt);
+--------------------------------------------------------------------------------
+Numeros Perfectos =
+
+int numero, i;
+
+Console.WriteLine("Ingrese Un Numero");
+numero = Convert.ToInt32(Console.ReadLine());
+
+for(i = 1; i <= numero/2; i++)
+{
+    if(numero % i == 0)
+    {
+        Console.WriteLine("Divisores "+ i);
+    }
+}
+-----------------------------------------------------------------------------------
+Numeros Factoriales
+Console.WriteLine("Ingrese Un Valor Numerico");
+int Num = Convert.ToInt32(Console.ReadLine());
+
+int Factorial = 1;
+
+while (Num != 0)
+{
+    Factorial = Factorial * Num;
+    Num = Num - 1;
+}
+Console.WriteLine("El Factorial Del Numero Puesto es: " + Factorial);
+----------------------------------------------------------------------------------
+Valores Impares y Su Suma
+Console.WriteLine("Ingrese Un Valor");
+int Num = Convert.ToInt32(Console.ReadLine());
+
+int suma = 0;
+int numero = 0;
+
+while (numero < Num)
+{
+    numero += 1;
+    if(numero % 2 != 0) //Para Valores Pares, Solo cambie el != (Diferente) a ==(Igual)
+    {
+        Console.WriteLine(numero);
+    }
+    suma = suma + numero;
+    numero++;
+}
+Console.WriteLine("La Suma De Los Valores Impares es: " + suma);
+-------------------------------------------------------------------------------------
+Tablas De Multiplicar 
+Console.WriteLine("Ingrese Un Valor");
+int Num = Convert.ToInt32(Console.ReadLine());
+
+int Limite = 10; //Si quieres un valor de las tablas mas grande, cambialo
+int Counter = 1;
+
+while (Counter <= Limite)
+{
+    int resultado = Num * Counter;
+    Console.WriteLine(Num + " x " + Counter +"=" + resultado);
+    Counter++;
+}
+----------------------------------------------------------------------------------------
+Suma De Fibonacci
+int a = 1;
+int b = 1;
+int counter = 0;   
+
+Console.WriteLine("Limite Para La Suma De Fibonacci: ");
+int Num = Convert.ToInt32(Console.ReadLine());
+
+while (counter < Num)
+{
+    int s = a + b;
+    a = b;
+    b = s;
+    Console.WriteLine(s);
+    counter++;
+}
+-----------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\Algoritmo14.exe
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\Algoritmo14.deps.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\Algoritmo14.runtimeconfig.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\Algoritmo14.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\ref\Algoritmo14.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\bin\Debug\net6.0\Algoritmo14.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.GlobalUsings.g.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.csproj.CoreCompileInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\ref\Algoritmo14.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo14\Algoritmo14\obj\Debug\net6.0\Algoritmo14.genruntimeconfig.cache
