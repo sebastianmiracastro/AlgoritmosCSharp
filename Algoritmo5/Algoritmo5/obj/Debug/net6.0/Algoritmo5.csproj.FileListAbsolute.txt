@@ -1,0 +1,16 @@
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.ImplicitNamespaceImports.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.csproj.CoreCompileInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\Algoritmo5.exe
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\Algoritmo5.deps.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\Algoritmo5.runtimeconfig.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\Algoritmo5.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\ref\Algoritmo5.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\bin\Debug\net6.0\Algoritmo5.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\ref\Algoritmo5.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo5\Algoritmo5\obj\Debug\net6.0\Algoritmo5.genruntimeconfig.cache

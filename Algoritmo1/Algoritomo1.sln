@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritomo1", "Algoritomo1\Algoritomo1.csproj", "{C02F1361-E747-45E1-9742-D1F06667ED52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02F1361-E747-45E1-9742-D1F06667ED52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02F1361-E747-45E1-9742-D1F06667ED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02F1361-E747-45E1-9742-D1F06667ED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02F1361-E747-45E1-9742-D1F06667ED52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CAE7B54-07A8-4395-9431-456439509C54}
+	EndGlobalSection
+EndGlobal

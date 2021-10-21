@@ -1,0 +1,16 @@
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\Algoritmo9.exe
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\Algoritmo9.deps.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\Algoritmo9.runtimeconfig.json
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\Algoritmo9.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\ref\Algoritmo9.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\bin\Debug\net6.0\Algoritmo9.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.GlobalUsings.g.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.csproj.CoreCompileInputs.cache
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\ref\Algoritmo9.dll
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.pdb
+C:\Users\smira\OneDrive\Escritorio\Algoritmos\Algoritmo9\Algoritmo9\obj\Debug\net6.0\Algoritmo9.genruntimeconfig.cache

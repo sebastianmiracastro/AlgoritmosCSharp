@@ -1,0 +1,18 @@
+﻿int N1, N2, Resul;
+string linea;
+Console.WriteLine("Ingrese un numero :"); 
+linea = Console.ReadLine();
+N1 = int.Parse(linea);
+Console.WriteLine("Ingrese otro numero: ");
+linea = Console.ReadLine();
+N2 = int.Parse(linea);
+Console.WriteLine();
+Resul = N1 + N2;
+Console.WriteLine("La SUMA es: {0} ", Resul);
+Resul = N1 - N2;
+Console.WriteLine("La RESTA es {0} - {1} = {2} ", N1, N2, Resul);
+Resul = N1 * N2;
+Console.WriteLine("La MULTIPLICACION es : " + Resul);
+Resul = N1 / N2;
+Console.WriteLine("La DIVISION es: " + Resul);
+Console.WriteLine();

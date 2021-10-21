@@ -1,0 +1,16 @@
+﻿byte CANB, CANH, CANP;
+double APAGAR;
+string linea;
+const double PRECIOB = 0.8;
+const double PRECIOH = 2;
+const double PRECIOP = 1.2;
+Console.Write("Cantidad Del Producto 1 :"); linea = Console.ReadLine();
+CANH = byte.Parse(linea);
+Console.Write("Cantidad Del Producto 2 :"); linea = Console.ReadLine();
+CANP = byte.Parse(linea);
+Console.Write("Cantidad Del Producto 3 :"); linea = Console.ReadLine();
+CANB = byte.Parse(linea);
+Console.WriteLine();
+APAGAR = (CANH * PRECIOH) + (CANP * PRECIOP) + (CANB * PRECIOB);
+Console.WriteLine("VALOR A PAGAR: " + APAGAR);
+Console.Write("Pulse una Tecla:"); Console.ReadLine();
