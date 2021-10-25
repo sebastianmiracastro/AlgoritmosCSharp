@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.exe
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.deps.json
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.runtimeconfig.json
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.dll
+C:\Users\SENA\source\repos\Algoritmo18\bin\Debug\netcoreapp3.1\Algoritmo18.pdb
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.dll
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.pdb
+C:\Users\SENA\source\repos\Algoritmo18\obj\Debug\netcoreapp3.1\Algoritmo18.genruntimeconfig.cache

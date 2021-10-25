@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.exe
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.deps.json
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.runtimeconfig.json
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.dll
+C:\Users\SENA\source\repos\Algoritmo20\bin\Debug\netcoreapp3.1\Algoritmo20.pdb
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.dll
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.pdb
+C:\Users\SENA\source\repos\Algoritmo20\obj\Debug\netcoreapp3.1\Algoritmo20.genruntimeconfig.cache
